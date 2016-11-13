@@ -1,3 +1,5 @@
+![alt tag](https://github.com/ArjunAranetaCodes/Tintin-Ai/blob/master/hitintin/tintin.png)
+
 # Tintin-Ai
 Tintin is an Artificial Intelligence Assistance that helps people who are not able to develop systems.
 It will help business owners, students, and other people who are in need of apps or systems.
